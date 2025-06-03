@@ -1,7 +1,7 @@
 # Portfolio
 Fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS and JavaScript.
 
-## Installing the Portfolio
+
 
 To install follow these steps:
 
